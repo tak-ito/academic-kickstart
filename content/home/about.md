@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Littérature française du 20e siècle / 二十世紀フランス文学",
+    "Poésie d'avant-garde / 前衛詩",
+    "Dada, surréalisme / ダダ、シュルレアリスム"
   ]
 
 # List your qualifications (such as academic degrees).
