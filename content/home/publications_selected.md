@@ -1,4 +1,3 @@
-<!--
 +++
 # Selected Publications widget.
 # This widget displays publications from `content/publication/` which have
@@ -31,5 +30,3 @@ list_format = 1
 #  6: Book chapter
 publication_type = "-1"
 +++
-
--->
