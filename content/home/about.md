@@ -13,28 +13,29 @@ weight = 5
     "Littérature française du 20e siècle / 二十世紀フランス文学",
     "Poésie d'avant-garde / 前衛詩",
     "Dada, surréalisme / ダダ、シュルレアリスム"
+    "Tristan Tzara / トリスタン・ツァラ"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Doctorat"
+  institution = "Université Paris 3 Sorbonne nouvelle (ED120, THALIM)"
+  year = 2017- / 2017年-
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "博士後期課程"
+  institution = "早稲田大学　文学学術院（仏文）"
+  year = 2017- / 2017年-
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "修士課程"
+  institution = "早稲田大学　文学学術院（仏文）"
+  year = avril 2015-mars 2017 /2015年4月-2017年3月
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bonjour, je suis actuellement étudiant en première année de thèse dans le département de Littérature française et comparée à l'Université Sorbonne Nouvelle Paris 3. Je commence une thèse sur « Poésie et théorie chez Tristan Tzara au temps de Dada et du surréalisme ».
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+こんにちは。私は博士後期課程でフランス文学の研究をしております。専門は前衛詩、シュルレアリスム、とりわけトリスタン・ツァラで、「ダダの時代とシュルレアリスムの時代におけるトリスタン・ツァラの詩と理論」という題目で博士論文を準備しております。
