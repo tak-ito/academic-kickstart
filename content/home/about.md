@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Poésie d'avant-garde / 前衛詩",
-    "Tristan Tzara / トリスタン・ツァラ"
-    "Dada, surréalisme / ダダ、シュルレアリスム"
-    "Littérature française du 20e siècle / 二十世紀フランス文学",
+    "Tristan Tzara / トリスタン・ツァラ",
+    "Dada, surréalisme / ダダ、シュルレアリスム",
+    "Littérature française du 20e siècle / 二十世紀フランス文学"
   ]
 
 # List your qualifications (such as academic degrees).
