@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Littérature française du 20e siècle / 二十世紀フランス文学",
     "Poésie d'avant-garde / 前衛詩",
-    "Dada, surréalisme / ダダ、シュルレアリスム"
     "Tristan Tzara / トリスタン・ツァラ"
+    "Dada, surréalisme / ダダ、シュルレアリスム"
+    "Littérature française du 20e siècle / 二十世紀フランス文学",
   ]
 
 # List your qualifications (such as academic degrees).
