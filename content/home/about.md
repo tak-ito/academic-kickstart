@@ -20,17 +20,17 @@ weight = 5
 [[education.courses]]
   course = "Doctorat"
   institution = "Université Paris 3 Sorbonne nouvelle (ED120, THALIM)"
-  year = 2017- / 2017年-
+  year = "dès 2017"
 
 [[education.courses]]
   course = "博士後期課程"
   institution = "早稲田大学　文学学術院（仏文）"
-  year = 2017- / 2017年-
+  year = "2017年から"
 
 [[education.courses]]
   course = "修士課程"
   institution = "早稲田大学　文学学術院（仏文）"
-  year = avril 2015-mars 2017 /2015年4月-2017年3月
+  year = "avril 2015-mars 2017 /2015年4月-2017年3月"
  
 +++
 
