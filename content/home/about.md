@@ -20,8 +20,12 @@ weight = 5
 [[education.courses]]
   course = "Doctorat"
   institution = "Université Paris 3 Sorbonne nouvelle (ED120, THALIM)"
+  year = "dès octobre 2017"
+
+[[education.courses]]
+  course = "Doctorat"
   institution = "Université Waseda (Faculté de Littérature Française)"
-  year = "dès 2017"
+  year = "dès avril 2017"
 
 [[education.courses]]
   course = "Master"
