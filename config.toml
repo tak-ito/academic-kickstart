@@ -261,7 +261,6 @@ enableGitInfo = false
   name = "Publications"
   url = "#publications_selected"
   weight = 2
-  active = false
 
 [[menu.main]]
   name = "Posts"
