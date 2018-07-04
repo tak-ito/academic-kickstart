@@ -3,7 +3,7 @@ title = "「トリスタン・ツァラ、ダダ後の詩に関する試�
 
 date = 2016-03-15T00:00:00
 
-link = "http://www.waseda.jp/bun-france/pdfs/vol35/ito.pdf"
+link = true
 
 math = false
 
