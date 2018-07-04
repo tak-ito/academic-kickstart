@@ -28,7 +28,7 @@ weight = 5
   year = "dès avril 2017"
 
 [[education.courses]]
-  course = "Master"
+  course = "Master Ⅱ"
   institution = "Université Waseda (Faculté de Littérature Française)"
   year = "avril 2015 - mars 2017"
  
