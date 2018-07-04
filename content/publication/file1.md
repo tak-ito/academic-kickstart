@@ -7,8 +7,6 @@ math = false
 
 highlight = false
 
-["論文を読む"][1]
- 
-[1]:http://www.waseda.jp/bun-france/pdfs/vol35/ito.pdf
+["論文を読む"](http://www.waseda.jp/bun-france/pdfs/vol35/ito.pdf)
 
 +++
