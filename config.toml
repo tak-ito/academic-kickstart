@@ -55,11 +55,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Takuma ITO / 伊藤 琢麻"
-  role = "Reserch Fellow (DC)"
+  role = "Chercheur (DC)"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Japan Society for the Promotion of Science", url = "" } ]
+  organizations = [ { name = "Société Japonaise pour la Promotion de la Science", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
