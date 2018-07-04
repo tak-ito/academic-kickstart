@@ -3,8 +3,8 @@ title = "「トリスタン・ツァラ、ダダ後の詩に関する試�
 
 date = 2016-03-15T00:00:00
 
-math = true
+math = false
 
-highlight = true
+highlight = false
 
 +++
