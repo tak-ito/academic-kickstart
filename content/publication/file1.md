@@ -3,13 +3,11 @@ title = "「トリスタン・ツァラ、ダダ後の詩に関する試�
 
 date = 2016-03-15T00:00:00
 
-link = true
-
 math = false
 
 highlight = false
 
-[論文を読む][1]
+["論文を読む"][1]
  
 [1]:http://www.waseda.jp/bun-france/pdfs/vol35/ito.pdf
 
